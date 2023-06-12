@@ -1,0 +1,8 @@
+1.Configure project
+    yarn add @aws-sdk/client-comprehendmedical
+
+
+https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/clients/client-comprehendmedical/
+
+
+running by node amc_operation.js

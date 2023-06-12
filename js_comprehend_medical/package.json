@@ -1,0 +1,14 @@
+{
+  "name": "js_comprehend_medical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "amc_operations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-comprehendmedical": "^3.350.0"
+  }
+}
