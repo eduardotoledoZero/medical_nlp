@@ -1,3 +1,4 @@
-From VS Code, create virtual enviroment
-Activate virtual enviroment with .venv\Scripts\activate
-pip install boto3
+Steps:
+1. From VS Code, create virtual enviroment
+2.Activate virtual enviroment with .venv\Scripts\activate
+3.Open in Terminal Integrated and type: pip install boto3
