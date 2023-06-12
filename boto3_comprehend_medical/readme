@@ -1,0 +1,3 @@
+From VS Code, create virtual enviroment
+Activate virtual enviroment with .venv\Scripts\activate
+pip install boto3
