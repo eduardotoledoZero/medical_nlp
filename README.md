@@ -1,4 +1,4 @@
-# Natural Languaje Processing and Text Minning WITH AMAZON COMPREHEND MEDICAL
+# Natural Languaje Processing and Text Mining WITH AMAZON COMPREHEND MEDICAL
 
 This repository has the beginnings of learning steps with Amazon Comprehend Medical which  is a service of Natural Language Processing for the medical area.
 
